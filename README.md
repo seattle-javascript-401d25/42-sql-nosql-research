@@ -8,7 +8,7 @@
   * Submit on Canvas the following:
     * A link to your PR
     * How long you spent on this lab
-    * At least four sentences concluding if you prefer to use SQL or MongoDB in the upcoming project
+    * At least four sentences concluding if you prefer to use SQL or MongoDB in the upcoming project and why
 
  
 ## Feature Tasks 
